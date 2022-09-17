@@ -67,7 +67,7 @@ range
 # for elem in l2:
 #     print(f'Otipo do elemento é {type(elem)} e seu valor é: {elem}')
 
-secreto = 'girafa'
+secreto = input('Insira qual será palavra secreta: ')
 digitadas = []
 chances = 3
 
@@ -110,5 +110,5 @@ while True:
 
     if secreto_temporario == secreto:
         print()
-        print(f'Parabéns, você acertou a palavra!')
+        print('Parabéns, você acertou a palavra!')
         break
