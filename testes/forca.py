@@ -1,6 +1,3 @@
-from ast import Try
-
-
 secreto = input('Insira qual será palavra secreta: ')
 digitadas = []
 chances = 3
