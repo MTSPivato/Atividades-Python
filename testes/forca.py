@@ -43,3 +43,4 @@ while True:
         print()
         print('Parabéns, você acertou a palavra!')
         break
+        
