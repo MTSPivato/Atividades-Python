@@ -4,6 +4,7 @@ print('Linha 1') - aaaaa
 print('Linha 1') - bbbbbbbbb
 print('Linha 1')
 """
+
 # print('bom dia')
 print('Linha 1')
 print('Linha 2')
